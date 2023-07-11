@@ -53,15 +53,13 @@ python train.py -opt config/train/train_SRResNet.yml
 ```
 
 
-
 ## 测试步骤
+Pre-trained weights can be found in：Pre-trained weights
 
 ```bash
 python test.py -opt config/test/test_CARN.yml
 python test.py -opt config/test/test_SRResNet.yml
 ```
-
-
 
 
 ## 实验结果
