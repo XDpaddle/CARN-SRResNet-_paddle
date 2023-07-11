@@ -68,10 +68,10 @@ python test.py -opt config/test/test_SRResNet.yml
 
 ## 复现指标
 
-|        | PSNR  |
-| ------ | ----- |
-| Paddle | 29.78 |
+|        | PSNR            |
+| ------ | --------------- |
+| Paddle | 28.17(CARN)     |
+| Paddle | 29.78(SRResNet) |
 
 
-### 
 
