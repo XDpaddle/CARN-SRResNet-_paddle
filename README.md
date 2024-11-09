@@ -6,8 +6,7 @@ Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network
 Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network    
 [Paper]https://arxiv.org/abs/1609.04802
 
-ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic.
-[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kong_ClassSR_A_General_Framework_to_Accelerate_Super-Resolution_Networks_by_Data_CVPR_2021_paper.pdf)
+
 
 
 ## 参考资料
